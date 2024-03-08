@@ -1,5 +1,5 @@
 <H3 style="font-family: Arial ">Hello World! I'm Rodrigo 👋</H3>
-<hr><br/>
+<hr>
 <i>I am passionate about programming and the challenges that software development offers, always learning and looking for exciting challenges and innovative/creative solutions.</i>
 <br/><br/>
 <h2>Languages e Tools 💻</h2>
