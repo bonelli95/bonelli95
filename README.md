@@ -1,4 +1,4 @@
-<H3 style="font-family: Arial ">Hello World! I'm Rodrigo 👋</H3>
+<h2>Hello World! I'm Rodrigo 👋</h2>
 <hr>
 <i>I am passionate about programming and curious about the challenges that software development offers, always learning and seeking exciting challenges and innovative/creative solutions.</i>
 <br/><br/>
